@@ -1,2 +1,2 @@
 # kalizaM.github.io
-echo "hello world" > index.html
+wait i can just type anything on this jawn??
